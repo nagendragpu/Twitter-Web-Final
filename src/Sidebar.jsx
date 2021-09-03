@@ -9,9 +9,8 @@ import BookmarkBorderOutlinedIcon from "@material-ui/icons/BookmarkBorderOutline
 import ListAltOutlinedIcon from "@material-ui/icons/ListAltOutlined";
 import PersonOutlineOutlinedIcon from "@material-ui/icons/PersonOutlineOutlined";
 import MoreHorizOutlinedIcon from "@material-ui/icons/MoreHorizOutlined";
-import { Avatar, Button } from "@material-ui/core";
+import { Avatar } from "@material-ui/core";
 import { useState } from "react";
-import ReactTooltip from "react-tooltip";
 
 const Container = styled.div`
   flex: 1;
